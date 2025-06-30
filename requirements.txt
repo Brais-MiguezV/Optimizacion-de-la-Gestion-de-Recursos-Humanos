@@ -1,0 +1,28 @@
+# Core NLP and Transformers
+transformers
+nlpaug
+torch
+accelerate
+
+# Machine Learning
+scikit-learn
+iterative-stratification
+
+# Data manipulation and visualization
+numpy
+pandas
+matplotlib
+seaborn
+
+
+# Date parsing and requests
+python-dateutil
+requests
+
+# Utilidades extra
+python-dotenv
+colorama
+
+SQLAlchemy
+psycopg2-binary
+openpyxl
