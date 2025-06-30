@@ -1,4 +1,4 @@
-# 🚀 Optimizacion-de-la-Gestion-de-Recursos-Humanos
+# 🚀 Optimizacion de la Gestion de Recursos Humanos
 
 Bienvenido/a al repositorio de mi **TFM** necesario para obtener el Máster Universitario en Tecnologías de Análisis de Datos Masivos: Big Data por la Universidad de Santiago de Compostela.
 
